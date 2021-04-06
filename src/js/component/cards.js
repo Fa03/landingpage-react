@@ -13,7 +13,7 @@ export function Cards() {
 						make up the bulk of the cards content.
 					</p>
 					<a href="#" className="btn btn-primary">
-						Go somewhere
+						Redirect
 					</a>
 				</div>
 			</div>
